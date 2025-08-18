@@ -1,0 +1,7 @@
+Line Break for Required Items: Required items now show with proper quantity formatting for better clarity.
+OX Menu Rewrite: Show/Close menu functions fully rewritten for OX only.
+ESX Gang Role: Added ability to get gang name and boss name.
+Readable Menu: Introduced read-only variable to enhance menu clarity.
+OX Inventory Label Update: Rewrote GetItemLabel function for better item name detection.
+Config Cleanup: Removed Config.Menu from config.lua.
+Version: Update Check Added.
