@@ -1,0 +1,3 @@
+fxmanifest export name fixed
+client side export renamed
+server side rewrite
